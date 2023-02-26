@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 iasdf
+=======
+sfhsdf
+>>>>>>> newfunc
