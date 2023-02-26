@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-iasdf
-=======
-sfhsdf
->>>>>>> newfunc
+nf 的 modify
+
